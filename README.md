@@ -39,9 +39,8 @@
      
      Untuk Flowchart Program seperti gambar berikut :
    
-<p align="center">     
-<img src="https://user-images.githubusercontent.com/45529723/55281212-b9779380-5363-11e9-8870-49ed2ae7adfd.jpg"width="600" height="400" />
-</p>
+   
+![ProgramUtama](https://user-images.githubusercontent.com/45529723/55281212-b9779380-5363-11e9-8870-49ed2ae7adfd.jpg)
 
 ##  D. Hasil Running Program Utama
      
@@ -51,15 +50,33 @@
 ![runn](https://user-images.githubusercontent.com/45529723/55281295-db254a80-5364-11e9-8e06-5fe9702a19f0.jpg)
 
 ##  E. Hasil Running Program Pilihan
-       1. Program Gaji
-       
-       2. Program Penilaian
-       
-       3. Program Kalkulator
-       
-       4. Program Pembayaran
-       
-       5. Program Exit
+1. Program Gaji 
+<img src="https://user-images.githubusercontent.com/45529723/55687627-5d32f600-5999-11e9-9ca7-304b24196973.png" width="450" height="350" />
+
+
+
+
+2. Program Penilaian
+<img src="https://user-images.githubusercontent.com/45529723/55687641-82276900-5999-11e9-864c-3b8cdaf36452.png" width="450" height="350" />
+
+
+
+
+3. Program Kalkulator
+<img src="https://user-images.githubusercontent.com/45529723/55687649-910e1b80-5999-11e9-996d-ac7d682f512a.png" width="450" height="350" />
+
+
+
+4. Program Pembayaran
+<img src="https://user-images.githubusercontent.com/45529723/55687651-9f5c3780-5999-11e9-8cb2-1e7c908e0081.png" width="450" height="350" />
+
+
+
+
+5. Program Exit
+<img src="(https://user-images.githubusercontent.com/45529723/55687656-a8e59f80-5999-11e9-848e-b2dd3dcf0753.png" width="450" height="350" />
+
+
        
 ##  E. Penjelasan
 
