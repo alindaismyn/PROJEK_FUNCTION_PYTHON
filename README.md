@@ -35,12 +35,19 @@
 
 -------------------------------------------------------------------------------------------
 
-##  C. Flowchart Program
+##  C. Flowchart Program Utama
      
      Untuk Flowchart Program seperti gambar berikut :
    
    
 ![ProgramUtama](https://user-images.githubusercontent.com/45529723/55281212-b9779380-5363-11e9-8870-49ed2ae7adfd.jpg)
+
+##  D. Flowchart Program Pilihan 1-4
+Untuk melihat flowchart program 1-4. Silahkan klik link dibawah ini :
+1. [Flowchart Gaji][link-GAJI....]
+2. [Flowchart Penilaian][link-nilai]
+3. [Flowchart Kalkulator][link-kal]
+4. [Flowchart Pembayaran][link-bayar]
 
 ##  D. Hasil Running Program Utama
      
@@ -74,7 +81,7 @@
 
 
 5. Program Exit
-<img src="(https://user-images.githubusercontent.com/45529723/55687656-a8e59f80-5999-11e9-848e-b2dd3dcf0753.png" width="450" height="350" />
+<img src= "https://user-images.githubusercontent.com/45529723/55687805-5311f700-599b-11e9-87e0-cdcd86007076.png" width="450" height="350" />
 
 
        
@@ -86,5 +93,12 @@
      Untuk mengimpor program ke program utama tinggal ketik 'import' 'namafolder'.'namamodul' from 'nama program'.Untuk lebih
      jelas nya silahkan lihat program codingan saya di Code repository ini.
 
-[link-Program-Utama]:https://github.com/ikhsanmaulana15/MENU_UTAMA/blob/master/Codingan/programok.py
+Jika Anda belum jelas, silahkan lihat tutorial video latihan python saya di alamat youtube berikut :
+(https://www.youtube.com/watch?v=lmACkjvBaB8)
 
+
+[link-Program-Utama]:https://github.com/ikhsanmaulana15/MENU_UTAMA/blob/master/Codingan/programok.py
+[link-GAJI....]:https://github.com/ikhsanmaulana15/PROJEK_FUNCTION_PYTHON/blob/master/Program-Hasil-Foto/Gambar%20Flowchart/GAJI....jpg
+[link-nilai]:https://github.com/ikhsanmaulana15/PROJEK_FUNCTION_PYTHON/blob/master/Program-Hasil-Foto/Gambar%20Flowchart/PENILAIAN.jpg
+[link-kal]:https://github.com/ikhsanmaulana15/PROJEK_FUNCTION_PYTHON/blob/master/Program-Hasil-Foto/Gambar%20Flowchart/FLOWCHART%20KALKULATOR.jpg
+[link-bayar]:https://github.com/ikhsanmaulana15/PROJEK_FUNCTION_PYTHON/blob/master/Program-Hasil-Foto/Gambar%20Flowchart/FLOWCHART%20PEMBAYARAN.jpg
